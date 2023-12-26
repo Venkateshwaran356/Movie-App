@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/popularm"
+        android:title="Popular Movies"/>
+    <item
+        android:id="@+id/upcomingm"
+        android:title="Upcoming Movies"/>
+    <item
+        android:id="@+id/latestm"
+        android:title="Latest Movies"/>
+    <item
+        android:id="@+id/exit"
+        android:title="Exit"/>
+</menu>
